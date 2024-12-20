@@ -41,6 +41,7 @@ RegisterNumber:24900748
 ```
 */
 ```
+*/
 i)
 module funct1(a,b,c,d,f1);
 input a,b,c,d;
@@ -55,7 +56,7 @@ output f2;
 assign f2=((~y & z)|( w & y )|(x & y));
 endmodule
 ```
-
+*/
 **RTL realization**
 
 
