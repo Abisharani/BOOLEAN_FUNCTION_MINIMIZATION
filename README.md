@@ -62,15 +62,10 @@ endmodule
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/25bb0d31-2e08-4a12-bd41-b0ee645a6c87)
 ![Screenshot (10)](https://github.com/user-attachments/assets/7b9c2567-0392-493d-b184-726c2237fee2)
-
-
-
 **Timing Diagram**
 
 ![Screenshot (20)](https://github.com/user-attachments/assets/64435942-8438-4f16-9421-dd50eadab7e9)
 ![Screenshot (21)](https://github.com/user-attachments/assets/a0475c1c-4035-45d1-9980-f632438e92a8)
-
-
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
